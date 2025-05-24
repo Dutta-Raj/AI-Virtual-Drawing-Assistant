@@ -1,0 +1,4 @@
+tensorflow
+gradio
+numpy
+pillow
