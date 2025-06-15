@@ -15,3 +15,4 @@ An interactive web app that lets users draw sketches and get real-time AI predic
 
 ```bash
 pip install -r requirements.txt
+https://huggingface.co/Dutta-Raj check this.....
