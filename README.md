@@ -3,7 +3,7 @@ AI Virtual Drawing Assistant is a web app that lets users draw sketches on a can
 # AI Virtual Drawing Assistant
 
 An interactive web app that lets users draw sketches and get real-time AI predictions. Built with Python, TensorFlow, and Gradio, using a CNN trained on MNIST digits.
-
+https://huggingface.co/Dutta-Raj check this.....
 ## Features
 
 - Draw on a digital canvas
@@ -15,4 +15,4 @@ An interactive web app that lets users draw sketches and get real-time AI predic
 
 ```bash
 pip install -r requirements.txt
-https://huggingface.co/Dutta-Raj check this.....
+
